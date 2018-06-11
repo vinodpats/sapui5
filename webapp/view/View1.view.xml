@@ -12,7 +12,7 @@
 					<Button text="Team2Button" press="onTeam2Button" />
 
 					<Button text="Team1Button" press="onTeam2Button" />
-
+<Button text="Do not remove" press="onTeam2Button" />
 				</content>
 			</Page>
 		</pages>
