@@ -10,6 +10,7 @@
 
 
 					<Button text="Team2Button" press="onTeam2Button" />
+					<Button text="Team3Button" press="onTeam2Button" />
 
 				</content>
 			</Page>
