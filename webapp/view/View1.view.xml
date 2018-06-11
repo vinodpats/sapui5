@@ -6,10 +6,14 @@
 				<content>
 					<Text text="Hello GitHub" />
 <<<<<<< HEAD
+<<<<<<< HEAD
 					<Button text="Press me" press="onPress" />
 =======
 					<Button text="Team2Button" press="onTeam2Button" />
 >>>>>>> refs/heads/master
+=======
+					<Button text="Team2Button" press="onTeam2Button" />
+>>>>>>> refs/remotes/origin/master
 				</content>
 			</Page>
 		</pages>
