@@ -5,7 +5,11 @@
 			<Page title="{i18n>title}">
 				<content>
 					<Text text="Hello GitHub" />
+<<<<<<< HEAD
 					<Button text="Press me" press="onPress" />
+=======
+					<Button text="Team2Button" press="onTeam2Button" />
+>>>>>>> refs/heads/master
 				</content>
 			</Page>
 		</pages>
